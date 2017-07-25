@@ -19,7 +19,7 @@ var dateLabels = [
 
 ## Note
 
-The index path show in each cell may at time be incorrect because the cell was not refreshed. This is not an issue as in real applications we rarely display the index path to the user...
+The index path shown in each cell may at time be incorrect because the cell was not refreshed. This is not an issue as in real applications we rarely display the index path to the user...
 
 ## Screenshot
 
