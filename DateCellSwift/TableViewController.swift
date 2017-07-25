@@ -12,7 +12,8 @@ class TableViewController: UITableViewController {
 
     // MARK: Configuration
 
-    let rowCount = [ 2, 5, 2 ] // total row count per section
+    // row count per section, here: 3 sections of 2, 5 and 2 rows each
+    let rowCount = [ 2, 5, 2 ]
 
     // index path of all the date label cells
     var dateLabels = [
